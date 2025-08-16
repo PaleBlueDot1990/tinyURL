@@ -1,4 +1,4 @@
-# Java Tutorial Repository
+# Spring Tutorial Repository
 
 > **Note**: This repository was created while learning about Spring & Spring Boot Framework.
 > This project is a simple service to generate tiny URLs.
